@@ -1,7 +1,5 @@
 # CineData Analytics - Agente Text-to-SQL
 
-Projeto desenvolvido para a atividade de GenAI do Rocket Lab 2026.
-
 O objetivo foi criar um agente capaz de responder perguntas em linguagem natural sobre o catálogo de filmes da CineData Analytics.
 
 O agente interpreta a pergunta do usuário, gera uma consulta SQL, consulta a camada Gold disponibilizada no arquivo `cinerocket.db` e depois apresenta o resultado em linguagem natural.
