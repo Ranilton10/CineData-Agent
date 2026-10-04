@@ -47,7 +47,7 @@ O arquivo `cinerocket.db` não está incluído no repositório por causa do seu 
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Ranilton10/CineData-Agent.git
 cd CineData-Agent
 ```
 
